@@ -1,4 +1,4 @@
-# Aprendiz de Hebraico (heblearn)
+# heblearn
 
 A desktop app for learning Hebrew by reading real **Wikipedia articles in Hebrew with nikud** (vowel marks), with text-to-speech, word-level translation, and spaced-repetition flashcards.
 
