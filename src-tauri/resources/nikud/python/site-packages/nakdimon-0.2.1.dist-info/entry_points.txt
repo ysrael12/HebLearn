@@ -1,0 +1,3 @@
+[console_scripts]
+diacritize = nakdimon:diacritize_main
+nakdimon = nakdimon:main
